@@ -6,13 +6,17 @@ namespace Airport
     {
         static void Main(string[] args)
         {
-            var commandPrompt = new CommandHandler();
-            while (true)
-            {
-                commandPrompt.DisplayCommands();
-                var command = Console.ReadLine();
-                commandPrompt.HandleCommand(command);
-            }
+
+            var filereader = new FileReader();
+            filereader.GetFiles("PassengerList");
+
+            //var commandPrompt = new CommandHandler();
+            //while (true)
+            //{
+            //    commandPrompt.DisplayCommands();
+            //    var command = Console.ReadLine();
+            //    commandPrompt.HandleCommand(command);
+            //}
         }
     }
 }

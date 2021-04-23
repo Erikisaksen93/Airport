@@ -1,0 +1,10 @@
+Erik, Isaksen, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG
+Henrik, Thuve, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Kristian, Risvær, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Flemming, Hogstad, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Sindre, Sagen, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Sondre, Eriksen, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Terje, Koldrup, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Linn, Eidsten, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Joakim, Schrøder, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG 
+Ina, Hillestad, FR6032, TRF, AGP, 6/6/2021, 1PCS, 28KG
